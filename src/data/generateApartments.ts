@@ -8,5 +8,4 @@ const neighborhoods = [
   'Downtown', 'Old Town', 'Near Park', 'Riverside', 'City Center', 
   'Suburb', 'Industrial Zone', 'University District'
 ];
-
 const propertyTypes = ['apartment', 'studio', 'room', 'house'] as const;
