@@ -3,18 +3,22 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ESNext",
-    "outDir": "dist",
     "rootDir": "src",
+    "outDir": "dist",
     "esModuleInterop": true,
     "strict": true,
     "resolveJsonModule": true,
     "noEmit": true,
-    "types": ["node", "express", "cors", "dotenv"],
     "allowImportingTsExtensions": true,
+    "types": ["node", "express", "cors", "dotenv"]
   },
   "include": ["src"],
   "ts-node": {
     "transpileOnly": true,
     "esm": true
+  },
+  "paths": {
+    "@controllers/*": ["controllers/*"],
+    "@routes/*": ["routes/*"]
   }
 }

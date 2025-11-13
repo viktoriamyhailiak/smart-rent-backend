@@ -1,12 +1,12 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "dist",
-    "module": "NodeNext",
-    "target": "ES2022",
     "noEmit": false,
+    "outDir": "dist",
+    "module": "ESNext",
+    "target": "ES2022",
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
   },
   "include": ["src"]
 }
