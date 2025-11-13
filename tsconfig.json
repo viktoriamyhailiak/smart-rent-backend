@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "allowImportingTsExtensions": true,
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ESNext",
@@ -16,6 +15,7 @@
       "@controllers/*": ["controllers/*"],
       "@routes/*": ["routes/*"]
     },
+    "allowImportingTsExtensions": true
   },
   "include": ["src"],
   "ts-node": {
