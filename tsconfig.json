@@ -1,25 +1,18 @@
 {
   "compilerOptions": {
+    "target": "ES2022",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "target": "ESNext",
-    "rootDir": "src",
-    "outDir": "dist",
     "esModuleInterop": true,
     "strict": true,
     "resolveJsonModule": true,
+    "allowImportingTsExtensions": true,
     "noEmit": true,
-    "types": ["node", "express", "cors", "dotenv"],
     "baseUrl": "src",
     "paths": {
       "@controllers/*": ["controllers/*"],
       "@routes/*": ["routes/*"]
-    },
-    "allowImportingTsExtensions": true
+    }
   },
-  "include": ["src"],
-  "ts-node": {
-    "transpileOnly": true,
-    "esm": true
-  }
+  "include": ["src"]
 }
