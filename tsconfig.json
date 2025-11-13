@@ -1,15 +1,16 @@
 {
   "compilerOptions": {
-    "module": "nodenext",
+    "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "target": "esnext",
+    "target": "ESNext",
     "outDir": "dist",
     "rootDir": "src",
     "esModuleInterop": true,
     "strict": true,
     "resolveJsonModule": true,
     "noEmit": true,
-    "types": ["node", "express", "cors", "dotenv"]
+    "types": ["node", "express", "cors", "dotenv"],
+    "allowImportingTsExtensions": true,
   },
   "include": ["src"],
   "ts-node": {
