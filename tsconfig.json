@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "allowImportingTsExtensions": true,
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ESNext",
@@ -9,7 +10,6 @@
     "strict": true,
     "resolveJsonModule": true,
     "noEmit": true,
-    "allowImportingTsExtensions": true,
     "types": ["node", "express", "cors", "dotenv"],
     "baseUrl": "src",
     "paths": {
