@@ -7,12 +7,7 @@
     "strict": true,
     "resolveJsonModule": true,
     "allowImportingTsExtensions": true,
-    "noEmit": true,
-    "baseUrl": "src",
-    "paths": {
-      "@controllers/*": ["controllers/*"],
-      "@routes/*": ["routes/*"]
-    }
+    "noEmit": true
   },
   "include": ["src"]
 }
