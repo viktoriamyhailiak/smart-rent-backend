@@ -10,15 +10,16 @@
     "resolveJsonModule": true,
     "noEmit": true,
     "allowImportingTsExtensions": true,
-    "types": ["node", "express", "cors", "dotenv"]
+    "types": ["node", "express", "cors", "dotenv"],
+    "baseUrl": "src",
+    "paths": {
+      "@controllers/*": ["controllers/*"],
+      "@routes/*": ["routes/*"]
+    },
   },
   "include": ["src"],
   "ts-node": {
     "transpileOnly": true,
     "esm": true
-  },
-  "paths": {
-    "@controllers/*": ["controllers/*"],
-    "@routes/*": ["routes/*"]
   }
 }
