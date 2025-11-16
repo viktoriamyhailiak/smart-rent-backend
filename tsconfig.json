@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    // "target": "es2015",
+    // "module": "node16",
     "target": "es2015",
-    "module": "node16",
+    "module": "nodenext",   
     "moduleResolution": "node16",
     "allowImportingTsExtensions": true,
     "esModuleInterop": true,
