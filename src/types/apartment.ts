@@ -11,10 +11,10 @@ export interface Apartment {
   bedrooms: number;
   squareMeters: number;
   petFriendly?: boolean;
+  new: boolean;
   images: string[];
   address: string;
   contact: string | number;
-  new: boolean;
   lat: number;
   lng: number;
 }
