@@ -1,9 +1,22 @@
+// {
+//   "compilerOptions": {
+//     "target": "es2015",
+//     "module": "Node16",
+//     "moduleResolution": "node16",
+//     "allowImportingTsExtensions": true,
+//     "esModuleInterop": true,
+//     "strict": true,
+//     "resolveJsonModule": true,
+//     "noEmit": true
+//   },
+//   "include": ["src"]
+// }
+
 {
   "compilerOptions": {
     "target": "es2015",
     "module": "Node16",
     "moduleResolution": "node16",
-    "allowImportingTsExtensions": true,
     "esModuleInterop": true,
     "strict": true,
     "resolveJsonModule": true,
@@ -11,6 +24,4 @@
   },
   "include": ["src"]
 }
-
-
 
