@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import apartmentsRouter from './routes/apartments.route.js';
 
+
 dotenv.config();
 
 const app = express();
