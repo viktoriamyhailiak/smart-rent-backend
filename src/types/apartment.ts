@@ -15,4 +15,6 @@ export interface Apartment {
   address: string;
   contact: string | number;
   new: boolean;
+  lat: number;
+  lng: number;
 }
