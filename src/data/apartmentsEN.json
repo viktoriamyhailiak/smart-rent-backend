@@ -13,7 +13,7 @@
     "contact": "kyiv.studio@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-20",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/f4/42/61/f44261160b783fd4cfdade3c4fc598bc.jpg",
@@ -36,7 +36,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-22",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/77/96/e6/7796e69efb91afcaa69ca90ea403239e.jpg",
@@ -82,7 +82,7 @@
     "contact": "+380671234567",
     "petFriendly": true,
     "availableFrom": "2025-11-26",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/69/d6/d8/69d6d889307b02b3f07cfac6e62c9bad.jpg",
@@ -105,7 +105,7 @@
     "contact": "dnipro.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-28",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/a3/61/86/a361868df6859fc411bed10442b20cf2.jpg",
@@ -128,7 +128,7 @@
     "contact": "vinnytsia.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-30",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/b4/d7/25/b4d725278da6fc82c534334e74e7f295.jpg",
@@ -174,7 +174,7 @@
     "contact": "+380501112233",
     "petFriendly": true,
     "availableFrom": "2025-12-04",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/89/e1/4f/89e14fe80ed9cf963f920cb167da116f.jpg",
@@ -197,7 +197,7 @@
     "contact": "zaporizhzhia.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-06",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/83/2c/73/832c739f7c3f31c28f69d6e596d2a69e.jpg",
@@ -220,7 +220,7 @@
     "contact": "chernihiv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-08",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/9c/95/c9/9c95c95bbf5219e8940565565939e1ee.jpg",
@@ -266,7 +266,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-17",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/4a/76/45/4a7645244d5ef3504c6892a1867ac173.jpg",
@@ -289,7 +289,7 @@
     "contact": "odesa.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-19",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/1f/12/3d/1f123d913f5df0fec0c71fd6917c9b42.jpg",
@@ -312,7 +312,7 @@
     "contact": "+380671234567",
     "petFriendly": true,
     "availableFrom": "2025-11-21",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/f3/9b/ae/f39baecc95eb16063e4dd7f87b926a15.jpg",
@@ -335,7 +335,7 @@
     "contact": "dnipro.studio@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-23",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/26/7f/d5/267fd56a340edc447d87171339f18959.jpg",
@@ -358,7 +358,7 @@
     "contact": "vinnytsia.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-25",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/8e/e8/cf/8ee8cf66a93fd98399db38a2673c7da1.jpg",
@@ -404,7 +404,7 @@
     "contact": "+380501112233",
     "petFriendly": true,
     "availableFrom": "2025-11-29",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/dc/31/8c/dc318c23b41510a3960aa740841be49d.jpg",
@@ -427,7 +427,7 @@
     "contact": "zaporizhzhia.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-01",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/a7/e6/e9/a7e6e940eb154b2080d6c54be9658dfb.jpg",
@@ -450,7 +450,7 @@
     "contact": "chernihiv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-03",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/48/76/ff/4876ff7c9e2c74ea20a22218d8f5bf6b.jpg",
@@ -473,7 +473,7 @@
     "contact": "kyiv.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-21",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/a7/f6/de/a7f6de6fa97e782e8c7037000842b7fe.jpg",
@@ -496,7 +496,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-23",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/77/59/6b/77596bfae7589bb1a54d4cc4695622c1.jpg",
@@ -542,7 +542,7 @@
     "contact": "+380671234567",
     "petFriendly": true,
     "availableFrom": "2025-11-27",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/c7/11/35/c711350f5ecd16fe2806933ffbe6b644.jpg",
@@ -565,7 +565,7 @@
     "contact": "dnipro.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-29",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/0b/6a/a5/0b6aa57ebac2fd907bc3bc3762d08155.jpg",
@@ -588,7 +588,7 @@
     "contact": "vinnytsia.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-01",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/12/91/a1/1291a1396cf27158cfd8ef1a78435e84.jpg",
@@ -634,7 +634,7 @@
     "contact": "+380501112233",
     "petFriendly": true,
     "availableFrom": "2025-12-05",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/4f/e9/7c/4fe97c96e2dbe3fb4638aa834b270f5d.jpg",
@@ -657,7 +657,7 @@
     "contact": "zaporizhzhia.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-07",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/6e/b4/62/6eb46283bb0c654bba1ebd86e75b7c89.jpg",
@@ -680,7 +680,7 @@
     "contact": "chernihiv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-09",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/d2/86/43/d28643080e900db60a33fb2d61030935.jpg",
@@ -726,7 +726,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-07",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/3c/95/cc/3c95cce3e2f63a3f052e447737c58631.jpg",
@@ -749,7 +749,7 @@
     "contact": "odesa.studio@example.com",
     "petFriendly": true,
     "availableFrom": "2025-12-09",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/65/05/03/650503c81a125cdb321b4c93e8d64048.jpg",
@@ -772,7 +772,7 @@
     "contact": "+380661234567",
     "petFriendly": true,
     "availableFrom": "2025-12-11",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/f2/e2/31/f2e2310f0d0a8c3fb222b76d21f88586.jpg",
@@ -818,7 +818,7 @@
     "contact": "vinnytsia.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-15",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/fd/ac/8a/fdac8a2de7112e8623d4847e0ba9f61f.jpg",
@@ -841,7 +841,7 @@
     "contact": "ternopil.studio@example.com",
     "petFriendly": true,
     "availableFrom": "2025-12-17",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/9b/cc/47/9bcc47f1aef65898d765e3dd42edff48.jpg",
@@ -887,7 +887,7 @@
     "contact": "+380931112233",
     "petFriendly": true,
     "availableFrom": "2025-12-21",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/18/23/c1/1823c16fef925c2bbb5b783ac7cdd91b.jpg",
@@ -910,7 +910,7 @@
     "contact": "chernihiv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-23",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/ed/a1/d2/eda1d27b1d06290429c0518caac25de1.jpg",
@@ -956,7 +956,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-27",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/53/d7/27/53d7277e69f41a2661da0f3daafce80e.jpg",
@@ -979,7 +979,7 @@
     "contact": "odesa.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-29",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/15/40/85/1540859973f18c9d0d870062f0f6492d.jpg",
@@ -1002,7 +1002,7 @@
     "contact": "+380671234567",
     "petFriendly": true,
     "availableFrom": "2025-12-31",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/ef/0b/67/ef0b6772c40205b3ad76d3b1abe1657b.jpg",
@@ -1025,7 +1025,7 @@
     "contact": "dnipro.room@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-02",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/e0/b2/c6/e0b2c64acaec7f6fbe2859e2e12d2013.jpg",
@@ -1071,7 +1071,7 @@
     "contact": "+380501112233",
     "petFriendly": true,
     "availableFrom": "2026-01-06",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/cf/43/c7/cf43c7a7324ff9a819414d04710ba453.jpg",
@@ -1094,7 +1094,7 @@
     "contact": "frankivsk.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-08",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/59/7e/77/597e77c1925ab273634c28cf64c0c517.jpg",
@@ -1140,7 +1140,7 @@
     "contact": "chernihiv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-12",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/5b/a0/14/5ba01476dedc6e7b0e2b55b04f5cbf82.jpg",
@@ -1186,7 +1186,7 @@
     "contact": "lviv.room@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-16",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/cc/7b/85/cc7b855c11097c2900d0f52b42d11a49.jpg",
@@ -1209,7 +1209,7 @@
     "contact": "odesa.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-18",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/89/a7/43/89a743b97ad48b5bc9e7209510fd171d.jpg",
@@ -1232,7 +1232,7 @@
     "contact": "+380671234567",
     "petFriendly": true,
     "availableFrom": "2026-01-20",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/f6/cc/27/f6cc279b34fa2cc1172655ed8ba848f0.jpg",
@@ -1255,7 +1255,7 @@
     "contact": "+380501112233",
     "petFriendly": true,
     "availableFrom": "2026-01-26",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/88/2d/2b/882d2b1cdad708abbe81d42bb54bc055.jpg",
@@ -1278,7 +1278,7 @@
     "contact": "frankivsk.room@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-28",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/45/7b/b2/457bb2d1b06f64d92961965b8eff13ae.jpg",
@@ -1301,7 +1301,7 @@
     "contact": "zaporizhzhia.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-30",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/57/0a/f7/570af72cd876bd06afc0b4b0a0bb4271.jpg",
@@ -1324,7 +1324,7 @@
     "contact": "vinnytsia.house@example.com",
     "petFriendly": true,
     "availableFrom": "2026-02-01",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/e6/b5/09/e6b5097e418f7fbcf20b58f1e73f72d9.jpg",
@@ -1370,7 +1370,7 @@
     "contact": "chernihiv.studio@example.com",
     "petFriendly": false,
     "availableFrom": "2026-02-05",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/1c/d6/55/1cd655ab4499b1da41375c8a2dc15ead.jpg",
@@ -1393,7 +1393,7 @@
     "contact": "kyiv.studio12@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-10",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/81/5d/6f/815d6f2407af48ad2766bcace99dbe70.jpg",
@@ -1462,7 +1462,7 @@
     "contact": "kharkiv.studio18@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-20",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/c0/28/5f/c0285f4d83e80d5d1f219c494e0f8100.jpg",
@@ -1531,7 +1531,7 @@
     "contact": "ivfrank.subpark5@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-15",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/cd/69/22/cd6922260b5e2ab0178e5d2c5a9dfb2b.jpg",
@@ -1623,7 +1623,7 @@
     "contact": "kyiv.studio25@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-01",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/0a/95/6b/0a956b074023414a135e3819da100f4f.jpg",
@@ -1692,7 +1692,7 @@
     "contact": "odesa.studio7@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-20",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/2a/5e/7d/2a5e7d4b2747cd786e680ee42ff81433.jpg",
@@ -1784,7 +1784,7 @@
     "contact": "zp.studio22@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-10",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/9e/46/74/9e46747779009c2f63d3c1b02c19926b.jpg",
@@ -1853,7 +1853,7 @@
     "contact": "kyiv.studio25@example.com",
     "petFriendly": false,
     "availableFrom": "2025-11-15",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/67/af/e6/67afe66d03a4740f4c8d59334888cdf3.jpg",
@@ -1922,7 +1922,7 @@
     "contact": "odesa.studio7@example.com",
     "petFriendly": true,
     "availableFrom": "2025-11-20",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/2a/aa/95/2aaa95f36442f350358bce71dcd08df1.jpg",
@@ -2014,7 +2014,7 @@
     "contact": "zp.studio22@example.com",
     "petFriendly": false,
     "availableFrom": "2025-12-10",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/2c/ce/25/2cce257faf4f65c88bbc21057ea945d1.jpg",
@@ -2083,7 +2083,7 @@
     "contact": "kyiv.studio12@example.com",
     "petFriendly": false,
     "availableFrom": "2026-02-01",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/2a/67/ae/2a67ae05bcdba18c83a8267af84517a6.jpg",
@@ -2106,7 +2106,7 @@
     "contact": "vinnytsia.room40@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-15",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/1200x/8e/6e/83/8e6e8310b4d0474140d0ecceddb0eb58.jpg",
@@ -2152,7 +2152,7 @@
     "contact": "ternopil.house5@example.com",
     "petFriendly": true,
     "availableFrom": "2026-02-25",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": true,
     "images": [
       "https://i.pinimg.com/736x/e3/b6/d8/e3b6d82237a022447d860356fcc82716.jpg",
@@ -2175,7 +2175,7 @@
     "contact": "kharkiv.studio88@example.com",
     "petFriendly": false,
     "availableFrom": "2026-01-09",
-    "propertyType": "apartment",
+    "propertyType": "studio",
     "new": true,
     "images": [
       "https://i.pinimg.com/1200x/29/36/04/29360430627ccc4a1dc01e440f86d963.jpg",
@@ -2221,7 +2221,7 @@
     "contact": "odesa.room44@example.com",
     "petFriendly": true,
     "availableFrom": "2026-01-30",
-    "propertyType": "apartment",
+    "propertyType": "room",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/e7/d2/3d/e7d23dd218102faeb8955bbcb1a80d1c.jpg",
@@ -2267,7 +2267,7 @@
     "contact": "chernihiv.house10@example.com",
     "petFriendly": true,
     "availableFrom": "2026-03-01",
-    "propertyType": "apartment",
+    "propertyType": "house",
     "new": false,
     "images": [
       "https://i.pinimg.com/736x/34/97/3f/34973f10c921961a3e6bd00ad52ed66a.jpg",
