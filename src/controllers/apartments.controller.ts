@@ -16,7 +16,7 @@ const apartmentsUA = JSON.parse(fs.readFileSync(apartmentsUAPath, 'utf-8'));
 export const getAllApartments = (req: Request, res: Response) => {
   const lang = req.query.lang;
 
-  if (lang === "ua") {
+  if (lang === "UA") {
     res.json(apartmentsUA);
   } else {
     res.json(apartmentsEN);
